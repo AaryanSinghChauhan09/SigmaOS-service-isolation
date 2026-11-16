@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-service-isolation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS service-isolation component - init_system"
+
+[lib]
+name = "service_isolation"
+path = "src/lib.rs"
