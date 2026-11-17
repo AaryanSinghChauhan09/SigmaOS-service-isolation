@@ -3,7 +3,7 @@ name = "SigmaOS-service-isolation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-isolation component"
+description = "service isolation"
 upstream = []
 
 [contract]
